@@ -1,0 +1,13 @@
+.table {
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+}
+
+th, td {
+    padding: 15px;
+  }
+
+h1,h2,p { font-family:"Arial";
+
+}
